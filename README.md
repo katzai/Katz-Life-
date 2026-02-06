@@ -3,7 +3,7 @@
 KATZ LIFE is a fully client-side web experience that visualizes time, life progress, and personal storytelling.
 
 ## Live Demo
-https://username.github.io/katz-life/
+https://katzai.github.io/Katz-Life-/
 
 ## Tech Stack
 - HTML / CSS / JavaScript
